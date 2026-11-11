@@ -152,3 +152,15 @@ Holatlar: `new`, `confirmed`, `delivering`, `delivered`, `cancelled`.
 - Buyurtmada ishlatilgan sovg'ani o'chirib bo'lmaydi, uni nofaol qiling.
 - Ichida sovg'asi bor kategoriyani o'chirib bo'lmaydi.
 - Productionga chiqarishdan oldin: `DEBUG = False`, yangi `SECRET_KEY`, `ALLOWED_HOSTS` ni to'ldiring va `CORS_ALLOW_ALL_ORIGINS` o'rniga `CORS_ALLOWED_ORIGINS` ro'yxatini bering.
+
+
+## Bog'liq loyiha
+
+Backend: [gift_blok](https://github.com/sobir-rahmonov/gift_blok)
+Frontend: [gift_frontend](https://github.com/sobir-rahmonovI/gift_frontend)
+
+## Muallif
+
+**ISM FAMILIYA**
+GitHub: [@sobir-rahmonov](https://github.com/sobir-rahmonov)
+Aloqa: email@example.com
